@@ -1,0 +1,1 @@
+<%@ page contentType="text/html;charset=UTF-8" %><link rel="stylesheet" href="css/style.css"><main><h2>Login</h2><form method="post" action="login"><label>Email</label><input type="email" name="email" required><label>Password</label><input type="password" name="password" required><button>Login</button></form></main>

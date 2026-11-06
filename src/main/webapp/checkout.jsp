@@ -1,0 +1,1 @@
+<%@ page contentType="text/html;charset=UTF-8" %><link rel="stylesheet" href="css/style.css"><main><h2>Checkout</h2><form method="post" action="checkout"><label>Delivery address</label><textarea name="address" required></textarea><button>Place order</button></form></main>
